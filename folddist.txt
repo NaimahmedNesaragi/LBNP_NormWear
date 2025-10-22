@@ -1,0 +1,269 @@
+🔹 Preparing data for Fold 1 (train subjects=[1, 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 19, 20, 21, 22, 23], test subjects=[17, 16, 3, 15, 6, 14, 18])
+
+Found 69 CSV files in /home/naim/LBNP/level7/csv_export
+[Fold 1 | train] Subj_10_Ser_1_app.csv -> saved 190 windows (Subj 10 Trial 1)
+[Fold 1 | train] Subj_10_Ser_2_app.csv -> saved 208 windows (Subj 10 Trial 2)
+[Fold 1 | train] Subj_10_Ser_3_app.csv -> saved 174 windows (Subj 10 Trial 3)
+[Fold 1 | train] Subj_11_Ser_1_app.csv -> saved 196 windows (Subj 11 Trial 1)
+[Fold 1 | train] Subj_11_Ser_2_app.csv -> saved 178 windows (Subj 11 Trial 2)
+[Fold 1 | train] Subj_11_Ser_3_app.csv -> saved 214 windows (Subj 11 Trial 3)
+[Fold 1 | train] Subj_12_Ser_1_app.csv -> saved 202 windows (Subj 12 Trial 1)
+[Fold 1 | train] Subj_12_Ser_2_app.csv -> saved 202 windows (Subj 12 Trial 2)
+[Fold 1 | train] Subj_12_Ser_3_app.csv -> saved 226 windows (Subj 12 Trial 3)
+[Fold 1 | train] Subj_13_Ser_1_app.csv -> saved 201 windows (Subj 13 Trial 1)
+[Fold 1 | train] Subj_13_Ser_2_app.csv -> saved 225 windows (Subj 13 Trial 2)
+[Fold 1 | train] Subj_13_Ser_3_app.csv -> saved 237 windows (Subj 13 Trial 3)
+[Fold 1 | test] Subj_14_Ser_1_app.csv -> saved 75 windows (Subj 14 Trial 1)
+[Fold 1 | test] Subj_14_Ser_2_app.csv -> saved 76 windows (Subj 14 Trial 2)
+[Fold 1 | test] Subj_14_Ser_3_app.csv -> saved 76 windows (Subj 14 Trial 3)
+[Fold 1 | test] Subj_15_Ser_1_app.csv -> saved 80 windows (Subj 15 Trial 1)
+[Fold 1 | test] Subj_15_Ser_2_app.csv -> saved 72 windows (Subj 15 Trial 2)
+[Fold 1 | test] Subj_15_Ser_3_app.csv -> saved 63 windows (Subj 15 Trial 3)
+[Fold 1 | test] Subj_16_Ser_1_app.csv -> saved 76 windows (Subj 16 Trial 1)
+[Fold 1 | test] Subj_16_Ser_2_app.csv -> saved 71 windows (Subj 16 Trial 2)
+[Fold 1 | test] Subj_16_Ser_3_app.csv -> saved 71 windows (Subj 16 Trial 3)
+[Fold 1 | test] Subj_17_Ser_1_app.csv -> saved 76 windows (Subj 17 Trial 1)
+[Fold 1 | test] Subj_17_Ser_2_app.csv -> saved 67 windows (Subj 17 Trial 2)
+[Fold 1 | test] Subj_17_Ser_3_app.csv -> saved 80 windows (Subj 17 Trial 3)
+[Fold 1 | test] Subj_18_Ser_1_app.csv -> saved 76 windows (Subj 18 Trial 1)
+[Fold 1 | test] Subj_18_Ser_2_app.csv -> saved 75 windows (Subj 18 Trial 2)
+[Fold 1 | test] Subj_18_Ser_3_app.csv -> saved 67 windows (Subj 18 Trial 3)
+[Fold 1 | train] Subj_19_Ser_1_app.csv -> saved 226 windows (Subj 19 Trial 1)
+[Fold 1 | train] Subj_19_Ser_2_app.csv -> saved 206 windows (Subj 19 Trial 2)
+[Fold 1 | train] Subj_19_Ser_3_app.csv -> saved 225 windows (Subj 19 Trial 3)
+[Fold 1 | train] Subj_1_Ser_1_app.csv -> saved 226 windows (Subj 1 Trial 1)
+[Fold 1 | train] Subj_1_Ser_2_app.csv -> saved 238 windows (Subj 1 Trial 2)
+[Fold 1 | train] Subj_1_Ser_3_app.csv -> saved 194 windows (Subj 1 Trial 3)
+[Fold 1 | train] Subj_20_Ser_1_app.csv -> saved 214 windows (Subj 20 Trial 1)
+[Fold 1 | train] Subj_20_Ser_2_app.csv -> saved 214 windows (Subj 20 Trial 2)
+[Fold 1 | train] Subj_20_Ser_3_app.csv -> saved 226 windows (Subj 20 Trial 3)
+[Fold 1 | train] Subj_21_Ser_1_app.csv -> saved 226 windows (Subj 21 Trial 1)
+[Fold 1 | train] Subj_21_Ser_2_app.csv -> saved 224 windows (Subj 21 Trial 2)
+[Fold 1 | train] Subj_21_Ser_3_app.csv -> saved 213 windows (Subj 21 Trial 3)
+[Fold 1 | train] Subj_22_Ser_1_app.csv -> saved 226 windows (Subj 22 Trial 1)
+[Fold 1 | train] Subj_22_Ser_2_app.csv -> saved 237 windows (Subj 22 Trial 2)
+[Fold 1 | train] Subj_22_Ser_3_app.csv -> saved 212 windows (Subj 22 Trial 3)
+[Fold 1 | train] Subj_23_Ser_1_app.csv -> saved 226 windows (Subj 23 Trial 1)
+[Fold 1 | train] Subj_23_Ser_2_app.csv -> saved 189 windows (Subj 23 Trial 2)
+[Fold 1 | train] Subj_23_Ser_3_app.csv -> saved 201 windows (Subj 23 Trial 3)
+[Fold 1 | train] Subj_2_Ser_1_app.csv -> saved 214 windows (Subj 2 Trial 1)
+[Fold 1 | train] Subj_2_Ser_2_app.csv -> saved 201 windows (Subj 2 Trial 2)
+[Fold 1 | train] Subj_2_Ser_3_app.csv -> saved 239 windows (Subj 2 Trial 3)
+[Fold 1 | test] Subj_3_Ser_1_app.csv -> saved 67 windows (Subj 3 Trial 1)
+[Fold 1 | test] Subj_3_Ser_2_app.csv -> saved 60 windows (Subj 3 Trial 2)
+[Fold 1 | test] Subj_3_Ser_3_app.csv -> saved 56 windows (Subj 3 Trial 3)
+[Fold 1 | train] Subj_4_Ser_1_app.csv -> saved 200 windows (Subj 4 Trial 1)
+[Fold 1 | train] Subj_4_Ser_2_app.csv -> saved 225 windows (Subj 4 Trial 2)
+[Fold 1 | train] Subj_4_Ser_3_app.csv -> saved 209 windows (Subj 4 Trial 3)
+[Fold 1 | train] Subj_5_Ser_1_app.csv -> saved 238 windows (Subj 5 Trial 1)
+[Fold 1 | train] Subj_5_Ser_2_app.csv -> saved 201 windows (Subj 5 Trial 2)
+[Fold 1 | train] Subj_5_Ser_3_app.csv -> saved 239 windows (Subj 5 Trial 3)
+[Fold 1 | test] Subj_6_Ser_1_app.csv -> saved 80 windows (Subj 6 Trial 1)
+[Fold 1 | test] Subj_6_Ser_2_app.csv -> saved 76 windows (Subj 6 Trial 2)
+[Fold 1 | test] Subj_6_Ser_3_app.csv -> saved 64 windows (Subj 6 Trial 3)
+[Fold 1 | train] Subj_7_Ser_1_app.csv -> saved 237 windows (Subj 7 Trial 1)
+[Fold 1 | train] Subj_7_Ser_2_app.csv -> saved 226 windows (Subj 7 Trial 2)
+[Fold 1 | train] Subj_7_Ser_3_app.csv -> saved 214 windows (Subj 7 Trial 3)
+[Fold 1 | train] Subj_8_Ser_1_app.csv -> saved 233 windows (Subj 8 Trial 1)
+[Fold 1 | train] Subj_8_Ser_2_app.csv -> saved 213 windows (Subj 8 Trial 2)
+[Fold 1 | train] Subj_8_Ser_3_app.csv -> saved 213 windows (Subj 8 Trial 3)
+[Fold 1 | train] Subj_9_Ser_1_app.csv -> saved 204 windows (Subj 9 Trial 1)
+[Fold 1 | train] Subj_9_Ser_2_app.csv -> saved 212 windows (Subj 9 Trial 2)
+[Fold 1 | train] Subj_9_Ser_3_app.csv -> saved 188 windows (Subj 9 Trial 3)
+Saved split JSON: train_test_split_fold1.json (train=10282, test=1504)
+Saved scaler for fold 1 -> scaler_fold1.json (channels=6)
+
+✅ Done for Fold 1. Saved 11786 windows total.
+Metadata -> metadata_fold1.json
+Elapsed: 1528.0s
+
+(normwear_gpu) naim@volta:~/LBNP/level7/LBNP_Normwear$ python data_prep.py --fold 2
+
+🔹 Preparing data for Fold 2 (train subjects=[1, 3, 4, 5, 6, 8, 9, 14, 15, 16, 17, 18, 19, 21, 22], test subjects=[13, 23, 7, 10, 2, 20, 12, 11])
+
+Found 69 CSV files in /home/naim/LBNP/level7/csv_export
+[Fold 2 | test] Subj_10_Ser_1_app.csv -> saved 64 windows (Subj 10 Trial 1)
+[Fold 2 | test] Subj_10_Ser_2_app.csv -> saved 70 windows (Subj 10 Trial 2)
+[Fold 2 | test] Subj_10_Ser_3_app.csv -> saved 58 windows (Subj 10 Trial 3)
+[Fold 2 | test] Subj_11_Ser_1_app.csv -> saved 66 windows (Subj 11 Trial 1)
+[Fold 2 | test] Subj_11_Ser_2_app.csv -> saved 60 windows (Subj 11 Trial 2)
+[Fold 2 | test] Subj_11_Ser_3_app.csv -> saved 72 windows (Subj 11 Trial 3)
+[Fold 2 | test] Subj_12_Ser_1_app.csv -> saved 68 windows (Subj 12 Trial 1)
+[Fold 2 | test] Subj_12_Ser_2_app.csv -> saved 68 windows (Subj 12 Trial 2)
+[Fold 2 | test] Subj_12_Ser_3_app.csv -> saved 76 windows (Subj 12 Trial 3)
+[Fold 2 | test] Subj_13_Ser_1_app.csv -> saved 67 windows (Subj 13 Trial 1)
+[Fold 2 | test] Subj_13_Ser_2_app.csv -> saved 75 windows (Subj 13 Trial 2)
+[Fold 2 | test] Subj_13_Ser_3_app.csv -> saved 79 windows (Subj 13 Trial 3)
+[Fold 2 | train] Subj_14_Ser_1_app.csv -> saved 225 windows (Subj 14 Trial 1)
+[Fold 2 | train] Subj_14_Ser_2_app.csv -> saved 226 windows (Subj 14 Trial 2)
+[Fold 2 | train] Subj_14_Ser_3_app.csv -> saved 226 windows (Subj 14 Trial 3)
+[Fold 2 | train] Subj_15_Ser_1_app.csv -> saved 238 windows (Subj 15 Trial 1)
+[Fold 2 | train] Subj_15_Ser_2_app.csv -> saved 214 windows (Subj 15 Trial 2)
+[Fold 2 | train] Subj_15_Ser_3_app.csv -> saved 189 windows (Subj 15 Trial 3)
+[Fold 2 | train] Subj_16_Ser_1_app.csv -> saved 226 windows (Subj 16 Trial 1)
+[Fold 2 | train] Subj_16_Ser_2_app.csv -> saved 213 windows (Subj 16 Trial 2)
+[Fold 2 | train] Subj_16_Ser_3_app.csv -> saved 212 windows (Subj 16 Trial 3)
+[Fold 2 | train] Subj_17_Ser_1_app.csv -> saved 226 windows (Subj 17 Trial 1)
+[Fold 2 | train] Subj_17_Ser_2_app.csv -> saved 201 windows (Subj 17 Trial 2)
+[Fold 2 | train] Subj_17_Ser_3_app.csv -> saved 238 windows (Subj 17 Trial 3)
+[Fold 2 | train] Subj_18_Ser_1_app.csv -> saved 226 windows (Subj 18 Trial 1)
+[Fold 2 | train] Subj_18_Ser_2_app.csv -> saved 225 windows (Subj 18 Trial 2)
+[Fold 2 | train] Subj_18_Ser_3_app.csv -> saved 201 windows (Subj 18 Trial 3)
+[Fold 2 | train] Subj_19_Ser_1_app.csv -> saved 226 windows (Subj 19 Trial 1)
+[Fold 2 | train] Subj_19_Ser_2_app.csv -> saved 206 windows (Subj 19 Trial 2)
+[Fold 2 | train] Subj_19_Ser_3_app.csv -> saved 225 windows (Subj 19 Trial 3)
+[Fold 2 | train] Subj_1_Ser_1_app.csv -> saved 226 windows (Subj 1 Trial 1)
+[Fold 2 | train] Subj_1_Ser_2_app.csv -> saved 238 windows (Subj 1 Trial 2)
+[Fold 2 | train] Subj_1_Ser_3_app.csv -> saved 194 windows (Subj 1 Trial 3)
+[Fold 2 | test] Subj_20_Ser_1_app.csv -> saved 72 windows (Subj 20 Trial 1)
+[Fold 2 | test] Subj_20_Ser_2_app.csv -> saved 72 windows (Subj 20 Trial 2)
+[Fold 2 | test] Subj_20_Ser_3_app.csv -> saved 76 windows (Subj 20 Trial 3)
+[Fold 2 | train] Subj_21_Ser_1_app.csv -> saved 226 windows (Subj 21 Trial 1)
+[Fold 2 | train] Subj_21_Ser_2_app.csv -> saved 224 windows (Subj 21 Trial 2)
+[Fold 2 | train] Subj_21_Ser_3_app.csv -> saved 213 windows (Subj 21 Trial 3)
+[Fold 2 | train] Subj_22_Ser_1_app.csv -> saved 226 windows (Subj 22 Trial 1)
+[Fold 2 | train] Subj_22_Ser_2_app.csv -> saved 237 windows (Subj 22 Trial 2)
+[Fold 2 | train] Subj_22_Ser_3_app.csv -> saved 212 windows (Subj 22 Trial 3)
+[Fold 2 | test] Subj_23_Ser_1_app.csv -> saved 76 windows (Subj 23 Trial 1)
+[Fold 2 | test] Subj_23_Ser_2_app.csv -> saved 63 windows (Subj 23 Trial 2)
+[Fold 2 | test] Subj_23_Ser_3_app.csv -> saved 67 windows (Subj 23 Trial 3)
+[Fold 2 | test] Subj_2_Ser_1_app.csv -> saved 72 windows (Subj 2 Trial 1)
+[Fold 2 | test] Subj_2_Ser_2_app.csv -> saved 67 windows (Subj 2 Trial 2)
+[Fold 2 | test] Subj_2_Ser_3_app.csv -> saved 80 windows (Subj 2 Trial 3)
+[Fold 2 | train] Subj_3_Ser_1_app.csv -> saved 201 windows (Subj 3 Trial 1)
+[Fold 2 | train] Subj_3_Ser_2_app.csv -> saved 180 windows (Subj 3 Trial 2)
+[Fold 2 | train] Subj_3_Ser_3_app.csv -> saved 168 windows (Subj 3 Trial 3)
+[Fold 2 | train] Subj_4_Ser_1_app.csv -> saved 200 windows (Subj 4 Trial 1)
+[Fold 2 | train] Subj_4_Ser_2_app.csv -> saved 225 windows (Subj 4 Trial 2)
+[Fold 2 | train] Subj_4_Ser_3_app.csv -> saved 209 windows (Subj 4 Trial 3)
+[Fold 2 | train] Subj_5_Ser_1_app.csv -> saved 238 windows (Subj 5 Trial 1)
+[Fold 2 | train] Subj_5_Ser_2_app.csv -> saved 201 windows (Subj 5 Trial 2)
+[Fold 2 | train] Subj_5_Ser_3_app.csv -> saved 239 windows (Subj 5 Trial 3)
+[Fold 2 | train] Subj_6_Ser_1_app.csv -> saved 238 windows (Subj 6 Trial 1)
+[Fold 2 | train] Subj_6_Ser_2_app.csv -> saved 226 windows (Subj 6 Trial 2)
+[Fold 2 | train] Subj_6_Ser_3_app.csv -> saved 190 windows (Subj 6 Trial 3)
+[Fold 2 | test] Subj_7_Ser_1_app.csv -> saved 79 windows (Subj 7 Trial 1)
+[Fold 2 | test] Subj_7_Ser_2_app.csv -> saved 76 windows (Subj 7 Trial 2)
+[Fold 2 | test] Subj_7_Ser_3_app.csv -> saved 72 windows (Subj 7 Trial 3)
+[Fold 2 | train] Subj_8_Ser_1_app.csv -> saved 233 windows (Subj 8 Trial 1)
+[Fold 2 | train] Subj_8_Ser_2_app.csv -> saved 213 windows (Subj 8 Trial 2)
+[Fold 2 | train] Subj_8_Ser_3_app.csv -> saved 213 windows (Subj 8 Trial 3)
+[Fold 2 | train] Subj_9_Ser_1_app.csv -> saved 204 windows (Subj 9 Trial 1)
+[Fold 2 | train] Subj_9_Ser_2_app.csv -> saved 212 windows (Subj 9 Trial 2)
+[Fold 2 | train] Subj_9_Ser_3_app.csv -> saved 188 windows (Subj 9 Trial 3)
+Saved split JSON: train_test_split_fold2.json (train=9717, test=1695)
+Saved scaler for fold 2 -> scaler_fold2.json (channels=6)
+
+✅ Done for Fold 2. Saved 11412 windows total.
+Metadata -> metadata_fold2.json
+Elapsed: 1505.4s
+
+(normwear_gpu) naim@volta:~/LBNP/level7/LBNP_Normwear$ python data_prep.py --fold 3
+Using device: cuda:2
+
+🔹 Preparing data for Fold 3 (train subjects=[2, 3, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 23], test subjects=[22, 5, 19, 8, 9, 1, 4, 21])
+
+Found 69 CSV files in /home/naim/LBNP/level7/csv_export
+[Fold 3 | train] Subj_10_Ser_1_app.csv -> saved 190 windows (Subj 10 Trial 1)
+[Fold 3 | train] Subj_10_Ser_2_app.csv -> saved 208 windows (Subj 10 Trial 2)
+[Fold 3 | train] Subj_10_Ser_3_app.csv -> saved 174 windows (Subj 10 Trial 3)
+[Fold 3 | train] Subj_11_Ser_1_app.csv -> saved 196 windows (Subj 11 Trial 1)
+[Fold 3 | train] Subj_11_Ser_2_app.csv -> saved 178 windows (Subj 11 Trial 2)
+[Fold 3 | train] Subj_11_Ser_3_app.csv -> saved 214 windows (Subj 11 Trial 3)
+[Fold 3 | train] Subj_12_Ser_1_app.csv -> saved 202 windows (Subj 12 Trial 1)
+[Fold 3 | train] Subj_12_Ser_2_app.csv -> saved 202 windows (Subj 12 Trial 2)
+[Fold 3 | train] Subj_12_Ser_3_app.csv -> saved 226 windows (Subj 12 Trial 3)
+[Fold 3 | train] Subj_13_Ser_1_app.csv -> saved 201 windows (Subj 13 Trial 1)
+[Fold 3 | train] Subj_13_Ser_2_app.csv -> saved 225 windows (Subj 13 Trial 2)
+[Fold 3 | train] Subj_13_Ser_3_app.csv -> saved 237 windows (Subj 13 Trial 3)
+[Fold 3 | train] Subj_14_Ser_1_app.csv -> saved 225 windows (Subj 14 Trial 1)
+[Fold 3 | train] Subj_14_Ser_2_app.csv -> saved 226 windows (Subj 14 Trial 2)
+[Fold 3 | train] Subj_14_Ser_3_app.csv -> saved 226 windows (Subj 14 Trial 3)
+[Fold 3 | train] Subj_15_Ser_1_app.csv -> saved 238 windows (Subj 15 Trial 1)
+[Fold 3 | train] Subj_15_Ser_2_app.csv -> saved 214 windows (Subj 15 Trial 2)
+[Fold 3 | train] Subj_15_Ser_3_app.csv -> saved 189 windows (Subj 15 Trial 3)
+[Fold 3 | train] Subj_16_Ser_1_app.csv -> saved 226 windows (Subj 16 Trial 1)
+[Fold 3 | train] Subj_16_Ser_2_app.csv -> saved 213 windows (Subj 16 Trial 2)
+[Fold 3 | train] Subj_16_Ser_3_app.csv -> saved 212 windows (Subj 16 Trial 3)
+[Fold 3 | train] Subj_17_Ser_1_app.csv -> saved 226 windows (Subj 17 Trial 1)
+[Fold 3 | train] Subj_17_Ser_2_app.csv -> saved 201 windows (Subj 17 Trial 2)
+[Fold 3 | train] Subj_17_Ser_3_app.csv -> saved 238 windows (Subj 17 Trial 3)
+[Fold 3 | train] Subj_18_Ser_1_app.csv -> saved 226 windows (Subj 18 Trial 1)
+[Fold 3 | train] Subj_18_Ser_2_app.csv -> saved 225 windows (Subj 18 Trial 2)
+[Fold 3 | train] Subj_18_Ser_3_app.csv -> saved 201 windows (Subj 18 Trial 3)
+[Fold 3 | test] Subj_19_Ser_1_app.csv -> saved 76 windows (Subj 19 Trial 1)
+[Fold 3 | test] Subj_19_Ser_2_app.csv -> saved 69 windows (Subj 19 Trial 2)
+[Fold 3 | test] Subj_19_Ser_3_app.csv -> saved 75 windows (Subj 19 Trial 3)
+[Fold 3 | test] Subj_1_Ser_1_app.csv -> saved 76 windows (Subj 1 Trial 1)
+[Fold 3 | test] Subj_1_Ser_2_app.csv -> saved 80 windows (Subj 1 Trial 2)
+[Fold 3 | test] Subj_1_Ser_3_app.csv -> saved 65 windows (Subj 1 Trial 3)
+[Fold 3 | train] Subj_20_Ser_1_app.csv -> saved 214 windows (Subj 20 Trial 1)
+[Fold 3 | train] Subj_20_Ser_2_app.csv -> saved 214 windows (Subj 20 Trial 2)
+[Fold 3 | train] Subj_20_Ser_3_app.csv -> saved 226 windows (Subj 20 Trial 3)
+[Fold 3 | test] Subj_21_Ser_1_app.csv -> saved 76 windows (Subj 21 Trial 1)
+[Fold 3 | test] Subj_21_Ser_2_app.csv -> saved 75 windows (Subj 21 Trial 2)
+[Fold 3 | test] Subj_21_Ser_3_app.csv -> saved 71 windows (Subj 21 Trial 3)
+[Fold 3 | test] Subj_22_Ser_1_app.csv -> saved 76 windows (Subj 22 Trial 1)
+[Fold 3 | test] Subj_22_Ser_2_app.csv -> saved 79 windows (Subj 22 Trial 2)
+[Fold 3 | test] Subj_22_Ser_3_app.csv -> saved 71 windows (Subj 22 Trial 3)
+[Fold 3 | train] Subj_23_Ser_1_app.csv -> saved 226 windows (Subj 23 Trial 1)
+[Fold 3 | train] Subj_23_Ser_2_app.csv -> saved 189 windows (Subj 23 Trial 2)
+[Fold 3 | train] Subj_23_Ser_3_app.csv -> saved 201 windows (Subj 23 Trial 3)
+[Fold 3 | train] Subj_2_Ser_1_app.csv -> saved 214 windows (Subj 2 Trial 1)
+[Fold 3 | train] Subj_2_Ser_2_app.csv -> saved 201 windows (Subj 2 Trial 2)
+[Fold 3 | train] Subj_2_Ser_3_app.csv -> saved 239 windows (Subj 2 Trial 3)
+[Fold 3 | train] Subj_3_Ser_1_app.csv -> saved 201 windows (Subj 3 Trial 1)
+[Fold 3 | train] Subj_3_Ser_2_app.csv -> saved 180 windows (Subj 3 Trial 2)
+[Fold 3 | train] Subj_3_Ser_3_app.csv -> saved 168 windows (Subj 3 Trial 3)
+[Fold 3 | test] Subj_4_Ser_1_app.csv -> saved 67 windows (Subj 4 Trial 1)
+[Fold 3 | test] Subj_4_Ser_2_app.csv -> saved 75 windows (Subj 4 Trial 2)
+[Fold 3 | test] Subj_4_Ser_3_app.csv -> saved 70 windows (Subj 4 Trial 3)
+[Fold 3 | test] Subj_5_Ser_1_app.csv -> saved 80 windows (Subj 5 Trial 1)
+[Fold 3 | test] Subj_5_Ser_2_app.csv -> saved 67 windows (Subj 5 Trial 2)
+[Fold 3 | test] Subj_5_Ser_3_app.csv -> saved 80 windows (Subj 5 Trial 3)
+[Fold 3 | train] Subj_6_Ser_1_app.csv -> saved 238 windows (Subj 6 Trial 1)
+[Fold 3 | train] Subj_6_Ser_2_app.csv -> saved 226 windows (Subj 6 Trial 2)
+[Fold 3 | train] Subj_6_Ser_3_app.csv -> saved 190 windows (Subj 6 Trial 3)
+[Fold 3 | train] Subj_7_Ser_1_app.csv -> saved 237 windows (Subj 7 Trial 1)
+[Fold 3 | train] Subj_7_Ser_2_app.csv -> saved 226 windows (Subj 7 Trial 2)
+[Fold 3 | train] Subj_7_Ser_3_app.csv -> saved 214 windows (Subj 7 Trial 3)
+[Fold 3 | test] Subj_8_Ser_1_app.csv -> saved 78 windows (Subj 8 Trial 1)
+[Fold 3 | test] Subj_8_Ser_2_app.csv -> saved 71 windows (Subj 8 Trial 2)
+[Fold 3 | test] Subj_8_Ser_3_app.csv -> saved 71 windows (Subj 8 Trial 3)
+[Fold 3 | test] Subj_9_Ser_1_app.csv -> saved 68 windows (Subj 9 Trial 1)
+[Fold 3 | test] Subj_9_Ser_2_app.csv -> saved 71 windows (Subj 9 Trial 2)
+[Fold 3 | test] Subj_9_Ser_3_app.csv -> saved 63 windows (Subj 9 Trial 3)
+Saved split JSON: train_test_split_fold3.json (train=9543, test=1750)
+Saved scaler for fold 3 -> scaler_fold3.json (channels=6)
+
+✅ Done for Fold 3. Saved 11293 windows total.
+Metadata -> metadata_fold3.json
+Elapsed: 1463.2s
+
+📊 Fold 1 summary:
+  Train subjects (16): [1, 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 19, 20, 21, 22, 23]
+    Class distribution: mild=3223, moderate=3918, severe=3141
+  Test subjects (7): [3, 6, 14, 15, 16, 17, 18]
+    Class distribution: mild=1353, moderate=151, severe=0
+
+📊 Fold 2 summary:
+  Train subjects (15): [1, 3, 4, 5, 6, 8, 9, 14, 15, 16, 17, 18, 19, 21, 22]
+    Class distribution: mild=3299, moderate=3672, severe=2746
+  Test subjects (8): [2, 7, 10, 11, 12, 13, 20, 23]
+    Class distribution: mild=1523, moderate=167, severe=5
+
+📊 Fold 3 summary:
+  Train subjects (15): [2, 3, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 23]
+    Class distribution: mild=3920, moderate=3332, severe=2291
+  Test subjects (8): [1, 4, 5, 8, 9, 19, 21, 22]
+    Class distribution: mild=714, moderate=589, severe=447
+
+🔢 Overall window count by class (all folds):
+  Class 1 (mild): 14032 windows
+  Class 2 (moderate): 11829 windows
+  Class 3 (severe): 8630 windows
+
+
+
+
+
